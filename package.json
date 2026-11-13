@@ -1,0 +1,14 @@
+{
+  "name": "malchin-khutuch-spa",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:data": "node src/tools/convertBreedsEnMn.mjs",
+    "generate:placeholders": "node src/tools/generate-placeholder-images.mjs",
+    "generate:images": "node src/tools/generate-images-json.mjs",
+    "build:data": "npm run generate:data && npm run generate:placeholders && npm run generate:images",
+    "unique": "node src/tools/searchUniqueField.mjs",
+    "start": "cd src && python -m http.server 8000"
+  }
+}

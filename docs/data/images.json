@@ -1,0 +1,46 @@
+{
+  "CA-01": [
+    "img/animals/CA-01_001.svg",
+    "img/animals/CA-01_002.svg"
+  ],
+  "CT-01": [
+    "img/animals/CT-01_001.svg",
+    "img/animals/CT-01_002.svg"
+  ],
+  "CT-02": [
+    "img/animals/CT-02_001.svg",
+    "img/animals/CT-02_002.svg"
+  ],
+  "CT-03": [
+    "img/animals/CT-03_001.svg",
+    "img/animals/CT-03_002.svg"
+  ],
+  "CT-04": [
+    "img/animals/CT-04_001.svg",
+    "img/animals/CT-04_002.svg"
+  ],
+  "CT-05": [
+    "img/animals/CT-05_001.svg",
+    "img/animals/CT-05_002.svg"
+  ],
+  "CT-06": [
+    "img/animals/CT-06_001.svg",
+    "img/animals/CT-06_002.svg"
+  ],
+  "GT-01": [
+    "img/animals/GT-01_001.svg",
+    "img/animals/GT-01_002.svg"
+  ],
+  "HO-01": [
+    "img/animals/HO-01_001.svg",
+    "img/animals/HO-01_002.svg"
+  ],
+  "RE-01": [
+    "img/animals/RE-01_001.svg",
+    "img/animals/RE-01_002.svg"
+  ],
+  "SH-01": [
+    "img/animals/SH-01_001.svg",
+    "img/animals/SH-01_002.svg"
+  ]
+}

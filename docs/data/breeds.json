@@ -1,0 +1,721 @@
+[
+  {
+    "code": "CA-01",
+    "icon": "🐪",
+    "group": {
+      "en": "Camels",
+      "mn": "Тэмээ"
+    },
+    "name": {
+      "en": "Mongolian Bactrian camel",
+      "mn": "Монгол хоёр бөхт тэмээ"
+    },
+    "general": {
+      "Scientific name": "Camelus bactrianus",
+      "Origin": {
+        "en": "Native",
+        "mn": "Уугуул"
+      },
+      "Main regions": [
+        {
+          "en": "Gobi",
+          "mn": "Говь"
+        },
+        {
+          "en": "Desert steppe",
+          "mn": "Цөлөрхөг тал"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 5,
+      "Gestation (months, approx.)": 13
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        },
+        {
+          "en": "Wool",
+          "mn": "Ноос"
+        },
+        {
+          "en": "Transport",
+          "mn": "Тээвэр"
+        },
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        }
+      ],
+      "Primary role": {
+        "en": "Pack and fibre animal",
+        "mn": "Ачаа тээвэр, ноосны мал"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Tolerates extreme heat, cold and drought",
+        "mn": "Халуун, хүйтэн, ган гачигт тэсвэртэй"
+      },
+      "Typical pasture zone": {
+        "en": "Gobi and desert steppe",
+        "mn": "Говь, цөлөрхөг тал"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Two humps store fat as an energy reserve.",
+        "mn": "Хоёр бөхөндөө өөх хуримтлуулж, эрчим хүчний нөөц болгодог."
+      }
+    }
+  },
+  {
+    "code": "HO-01",
+    "icon": "🐎",
+    "group": {
+      "en": "Horses",
+      "mn": "Адуу"
+    },
+    "name": {
+      "en": "Mongolian horse",
+      "mn": "Монгол адуу"
+    },
+    "general": {
+      "Scientific name": "Equus ferus caballus",
+      "Origin": {
+        "en": "Native",
+        "mn": "Уугуул"
+      },
+      "Main regions": [
+        {
+          "en": "Nationwide",
+          "mn": "Улс даяар"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 7,
+      "Gestation (months, approx.)": 11
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Riding",
+          "mn": "Унаа"
+        },
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        },
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        }
+      ],
+      "Primary role": {
+        "en": "Riding, racing and herding",
+        "mn": "Унаа, уралдаан, малчлах"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Very hardy; grazes outdoors all year",
+        "mn": "Маш тэсвэртэй; жилийн турш бэлчээрт хооллождог"
+      },
+      "Typical pasture zone": {
+        "en": "Steppe and forest-steppe",
+        "mn": "Тал хээр, ойт хээр"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Mare's milk is fermented into airag.",
+        "mn": "Гүүний сүүгээр айраг исгэдэг."
+      }
+    }
+  },
+  {
+    "code": "CT-01",
+    "icon": "🐄",
+    "group": {
+      "en": "Cattle",
+      "mn": "Үхэр"
+    },
+    "name": {
+      "en": "Mongolian native cattle",
+      "mn": "Монгол уугуул үхэр"
+    },
+    "general": {
+      "Scientific name": "Bos taurus",
+      "Origin": {
+        "en": "Native",
+        "mn": "Уугуул"
+      },
+      "Main regions": [
+        {
+          "en": "Steppe",
+          "mn": "Тал хээр"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 6,
+      "Gestation (months, approx.)": 9
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        },
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        },
+        {
+          "en": "Hide",
+          "mn": "Арьс шир"
+        }
+      ],
+      "Primary role": {
+        "en": "Dual-purpose (milk and meat)",
+        "mn": "Сүү, махны хос зориулалттай"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Hardy; adapted to steppe winters",
+        "mn": "Тэсвэртэй; тал хээрийн өвөлд дасан зохицсон"
+      },
+      "Typical pasture zone": {
+        "en": "Steppe and forest-steppe",
+        "mn": "Тал хээр, ойт хээр"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Well suited to extensive herding on natural pasture.",
+        "mn": "Байгалийн бэлчээрт өргөн хүрээт малчлахад сайн зохицдог."
+      }
+    }
+  },
+  {
+    "code": "CT-02",
+    "icon": "🐂",
+    "group": {
+      "en": "Cattle",
+      "mn": "Үхэр"
+    },
+    "name": {
+      "en": "Yak",
+      "mn": "Сарлаг"
+    },
+    "general": {
+      "Scientific name": "Bos grunniens",
+      "Origin": {
+        "en": "Native",
+        "mn": "Уугуул"
+      },
+      "Main regions": [
+        {
+          "en": "Khangai",
+          "mn": "Хангай"
+        },
+        {
+          "en": "Altai",
+          "mn": "Алтай"
+        },
+        {
+          "en": "Khuvsgul",
+          "mn": "Хөвсгөл"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 6,
+      "Gestation (months, approx.)": 9
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        },
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        },
+        {
+          "en": "Hide",
+          "mn": "Арьс шир"
+        },
+        {
+          "en": "Fibre",
+          "mn": "Үс, ширхэг"
+        }
+      ],
+      "Primary role": {
+        "en": "Mountain pack and dairy animal",
+        "mn": "Уулын тээвэр, сүүний мал"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Adapted to high altitude and severe cold",
+        "mn": "Өндөр уул, хатуу ширүүн хүйтэнд дасан зохицсон"
+      },
+      "Typical pasture zone": {
+        "en": "Mountain and high-mountain pastures",
+        "mn": "Уулын болон өндөр уулын бэлчээр"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Produces milk, meat and fine down fibre in cold highlands.",
+        "mn": "Хүйтэн өндөр уулсад сүү, мах, нарийн ширхэгт үс өгдөг."
+      }
+    }
+  },
+  {
+    "code": "CT-03",
+    "icon": "🐂",
+    "group": {
+      "en": "Cattle",
+      "mn": "Үхэр"
+    },
+    "name": {
+      "en": "Khainag (yak-cattle hybrid)",
+      "mn": "Хайнаг (сарлаг, үхрийн эрлийз)"
+    },
+    "general": {
+      "Scientific name": "Bos grunniens x Bos taurus",
+      "Origin": {
+        "en": "Native hybrid",
+        "mn": "Уугуул эрлийз"
+      },
+      "Main regions": [
+        {
+          "en": "Khangai",
+          "mn": "Хангай"
+        },
+        {
+          "en": "Khuvsgul",
+          "mn": "Хөвсгөл"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 6,
+      "Gestation (months, approx.)": 9
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        },
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        }
+      ],
+      "Primary role": {
+        "en": "Dairy crossbreed",
+        "mn": "Сүүний эрлийз"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Intermediate hardiness",
+        "mn": "Дунд зэргийн тэсвэртэй"
+      },
+      "Typical pasture zone": {
+        "en": "Mountain and steppe",
+        "mn": "Уул, тал хээр"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Crossbred from yak and cattle, generally giving more milk than yak.",
+        "mn": "Сарлаг, үхрийн эрлийз бөгөөд сарлагаас ерөнхийдөө илүү сүү өгдөг."
+      }
+    }
+  },
+  {
+    "code": "CT-04",
+    "icon": "🐄",
+    "group": {
+      "en": "Cattle",
+      "mn": "Үхэр"
+    },
+    "name": {
+      "en": "Simmental",
+      "mn": "Симментал"
+    },
+    "general": {
+      "Scientific name": "Bos taurus",
+      "Origin": {
+        "en": "Introduced",
+        "mn": "Нутагшуулсан"
+      },
+      "Main regions": [
+        {
+          "en": "Central and farm areas",
+          "mn": "Төв бүс, фермийн аж ахуй"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 6,
+      "Gestation (months, approx.)": 9
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        },
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        }
+      ],
+      "Primary role": {
+        "en": "Dual-purpose (milk and meat)",
+        "mn": "Сүү, махны хос зориулалттай"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Needs shelter and quality feed",
+        "mn": "Хашаа байр, чанартай тэжээл шаардана"
+      },
+      "Typical pasture zone": {
+        "en": "Farm-based feeding",
+        "mn": "Фермийн аж ахуй, тэжээлд суурилсан"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Introduced breed used in crossbreeding and dairy farms.",
+        "mn": "Эрлийзжүүлэлт, сүүний фермд ашигладаг нутагшуулсан үүлдэр."
+      }
+    }
+  },
+  {
+    "code": "CT-05",
+    "icon": "🐄",
+    "group": {
+      "en": "Cattle",
+      "mn": "Үхэр"
+    },
+    "name": {
+      "en": "Holstein",
+      "mn": "Холштейн"
+    },
+    "general": {
+      "Scientific name": "Bos taurus",
+      "Origin": {
+        "en": "Introduced",
+        "mn": "Нутагшуулсан"
+      },
+      "Main regions": [
+        {
+          "en": "Central and farm areas",
+          "mn": "Төв бүс, фермийн аж ахуй"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 6,
+      "Gestation (months, approx.)": 9
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        }
+      ],
+      "Primary role": {
+        "en": "Dairy",
+        "mn": "Сүүний чиглэл"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Needs shelter and quality feed",
+        "mn": "Хашаа байр, чанартай тэжээл шаардана"
+      },
+      "Typical pasture zone": {
+        "en": "Farm-based feeding",
+        "mn": "Фермийн аж ахуй, тэжээлд суурилсан"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Introduced specialised dairy breed.",
+        "mn": "Нутагшуулсан сүүний мэргэшсэн үүлдэр."
+      }
+    }
+  },
+  {
+    "code": "CT-06",
+    "icon": "🐄",
+    "group": {
+      "en": "Cattle",
+      "mn": "Үхэр"
+    },
+    "name": {
+      "en": "Hereford",
+      "mn": "Герефорд"
+    },
+    "general": {
+      "Scientific name": "Bos taurus",
+      "Origin": {
+        "en": "Introduced",
+        "mn": "Нутагшуулсан"
+      },
+      "Main regions": [
+        {
+          "en": "Central and farm areas",
+          "mn": "Төв бүс, фермийн аж ахуй"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 6,
+      "Gestation (months, approx.)": 9
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        },
+        {
+          "en": "Hide",
+          "mn": "Арьс шир"
+        }
+      ],
+      "Primary role": {
+        "en": "Beef",
+        "mn": "Махны чиглэл"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Needs shelter and quality feed",
+        "mn": "Хашаа байр, чанартай тэжээл шаардана"
+      },
+      "Typical pasture zone": {
+        "en": "Farm-based feeding",
+        "mn": "Фермийн аж ахуй, тэжээлд суурилсан"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Introduced specialised beef breed.",
+        "mn": "Нутагшуулсан махны мэргэшсэн үүлдэр."
+      }
+    }
+  },
+  {
+    "code": "SH-01",
+    "icon": "🐑",
+    "group": {
+      "en": "Sheep",
+      "mn": "Хонь"
+    },
+    "name": {
+      "en": "Mongolian sheep",
+      "mn": "Монгол хонь"
+    },
+    "general": {
+      "Scientific name": "Ovis aries",
+      "Origin": {
+        "en": "Native",
+        "mn": "Уугуул"
+      },
+      "Main regions": [
+        {
+          "en": "Nationwide",
+          "mn": "Улс даяар"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 1,
+      "Gestation (months, approx.)": 5
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        },
+        {
+          "en": "Wool",
+          "mn": "Ноос"
+        },
+        {
+          "en": "Hide",
+          "mn": "Арьс шир"
+        }
+      ],
+      "Primary role": {
+        "en": "Meat animal",
+        "mn": "Махны мал"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Hardy; thrives on rangeland",
+        "mn": "Тэсвэртэй; бэлчээрт сайн өсөн үржинэ"
+      },
+      "Typical pasture zone": {
+        "en": "Mountain and steppe",
+        "mn": "Уул, тал хээр"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Main meat animal and the base unit for sheep-unit conversion.",
+        "mn": "Махны гол мал, хонин толгойн шилжүүлгийн суурь нэгж."
+      }
+    }
+  },
+  {
+    "code": "GT-01",
+    "icon": "🐐",
+    "group": {
+      "en": "Goats",
+      "mn": "Ямаа"
+    },
+    "name": {
+      "en": "Mongolian goat",
+      "mn": "Монгол ямаа"
+    },
+    "general": {
+      "Scientific name": "Capra hircus",
+      "Origin": {
+        "en": "Native",
+        "mn": "Уугуул"
+      },
+      "Main regions": [
+        {
+          "en": "Nationwide",
+          "mn": "Улс даяар"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": 0.9,
+      "Gestation (months, approx.)": 5
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Cashmere",
+          "mn": "Ноолуур"
+        },
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        },
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        }
+      ],
+      "Primary role": {
+        "en": "Cashmere animal",
+        "mn": "Ноолуурын мал"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Hardy; thrives on rangeland",
+        "mn": "Тэсвэртэй; бэлчээрт сайн өсөн үржинэ"
+      },
+      "Typical pasture zone": {
+        "en": "Mountain and steppe",
+        "mn": "Уул, тал хээр"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Main source of cashmere.",
+        "mn": "Ямааны ноолуурын гол эх үүсвэр."
+      }
+    }
+  },
+  {
+    "code": "RE-01",
+    "icon": "🦌",
+    "group": {
+      "en": "Reindeer",
+      "mn": "Цаа буу"
+    },
+    "name": {
+      "en": "Domesticated reindeer",
+      "mn": "Гэрийн цаа буу"
+    },
+    "general": {
+      "Scientific name": "Rangifer tarandus",
+      "Origin": {
+        "en": "Native",
+        "mn": "Уугуул"
+      },
+      "Main regions": [
+        {
+          "en": "Northern Khuvsgul taiga",
+          "mn": "Хөвсгөлийн хойд тайга"
+        }
+      ]
+    },
+    "biology": {
+      "Sheep unit coefficient": null,
+      "Gestation (months, approx.)": 7.5
+    },
+    "usage": {
+      "Main products": [
+        {
+          "en": "Milk",
+          "mn": "Сүү"
+        },
+        {
+          "en": "Riding",
+          "mn": "Унаа"
+        },
+        {
+          "en": "Antler",
+          "mn": "Эвэр"
+        }
+      ],
+      "Primary role": {
+        "en": "Taiga riding and milk animal",
+        "mn": "Тайгын унаа, сүүний мал"
+      }
+    },
+    "adaptation": {
+      "Climate tolerance": {
+        "en": "Adapted to cold taiga",
+        "mn": "Хүйтэн тайгад дасан зохицсон"
+      },
+      "Typical pasture zone": {
+        "en": "Taiga (lichen pasture)",
+        "mn": "Тайга (хаг бэлчээр)"
+      }
+    },
+    "notes": {
+      "Note": {
+        "en": "Herded by the Tsaatan people of northern Khuvsgul.",
+        "mn": "Хөвсгөлийн хойд хэсгийн цаатан иргэд маллана."
+      }
+    }
+  }
+]
